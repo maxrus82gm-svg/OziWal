@@ -1,0 +1,64 @@
+idea_id,idea,query,marketplace_group,theme,product_type,ip_risk,safe_alternative,production_fit,personalization_potential,notes
+KEYCHAIN-001,брелок с именем,брелок с именем,ozon_wb,personalized,keychain,low,not required,high,high,можно добавлять имя
+KEYCHAIN-002,брелок с ником,брелок с ником,ozon_wb,personalized,keychain,low,not required,high,high,подходит для геймерских ников
+KEYCHAIN-003,брелок с инициалами,брелок с инициалами,ozon_wb,personalized,keychain,low,not required,high,high,простая персонализация
+KEYCHAIN-004,брелок буква,брелок буква,ozon_wb,personalized,keychain,low,not required,high,medium,можно делать набор алфавита
+KEYCHAIN-005,парный брелок,парный брелок,ozon_wb,personalized,keychain,low,not required,medium,high,нужна прочная форма соединения
+KEYCHAIN-006,брелок мама,брелок мама,ozon_wb,personalized,keychain,low,not required,high,medium,подарочная тема
+KEYCHAIN-007,брелок папа,брелок папа,ozon_wb,personalized,keychain,low,not required,high,medium,подарочная тема
+KEYCHAIN-008,брелок с датой,брелок с датой,ozon_wb,personalized,keychain,low,not required,high,high,можно добавлять дату
+KEYCHAIN-009,брелок с номером,брелок с номером,ozon_wb,personalized,keychain,low,not required,high,high,подходит для номеров и телефонов
+KEYCHAIN-010,брелок номерок,брелок номерок,ozon_wb,personalized,tag,low,not required,high,high,подходит для ключей и шкафчиков
+KEYCHAIN-011,брелок кот,брелок кот,ozon_wb,animals,keychain,low,not required,high,medium,популярная животная тема
+KEYCHAIN-012,брелок собака,брелок собака,ozon_wb,animals,keychain,low,not required,high,medium,можно делать разные силуэты
+KEYCHAIN-013,брелок лапка,брелок лапка,ozon_wb,pets,keychain,low,not required,high,medium,простая форма для печати
+KEYCHAIN-014,жетон для питомца,жетон для питомца,ozon_wb,pets,tag,low,not required,high,high,можно добавлять имя и телефон
+KEYCHAIN-015,брелок волк,брелок волк,ozon_wb,animals,keychain,low,not required,medium,low,возможны тонкие детали
+KEYCHAIN-016,брелок дракон,брелок дракон,ozon_wb,animals,keychain,low,not required,medium,medium,лучше делать стилизованно
+KEYCHAIN-017,брелок сова,брелок сова,ozon_wb,animals,keychain,low,not required,medium,low,детали глаз могут быть тонкими
+KEYCHAIN-018,брелок лиса,брелок лиса,ozon_wb,animals,keychain,low,not required,medium,low,подходит силуэтная версия
+KEYCHAIN-019,брелок медведь,брелок медведь,ozon_wb,animals,keychain,low,not required,medium,low,можно делать минималистично
+KEYCHAIN-020,брелок акула,брелок акула,ozon_wb,animals,keychain,low,not required,medium,low,нужна безопасная форма плавников
+KEYCHAIN-021,брелок знак зодиака,брелок знак зодиака,ozon_wb,zodiac,keychain,low,not required,high,medium,можно делать серию из 12 знаков
+KEYCHAIN-022,брелок сердце,брелок сердце,ozon_wb,symbols,keychain,low,not required,high,medium,простая подарочная форма
+KEYCHAIN-023,брелок череп,брелок череп,ozon_wb,symbols,keychain,low,not required,medium,low,готическая тема
+KEYCHAIN-024,брелок крыло,брелок крыло,ozon_wb,symbols,pendant,low,not required,medium,low,тонкие перья могут ломаться
+KEYCHAIN-025,брелок молния,брелок молния,ozon_wb,symbols,keychain,low,not required,high,low,простая быстрая печать
+KEYCHAIN-026,брелок звезда,брелок звезда,ozon_wb,symbols,keychain,low,not required,high,medium,можно делать имя внутри
+KEYCHAIN-027,брелок руна,брелок руна,ozon_wb,fantasy,token,low,not required,high,medium,подходит для набора
+KEYCHAIN-028,брелок амулет,брелок амулет,ozon_wb,fantasy,pendant,low,not required,medium,medium,можно делать оригинальные символы
+KEYCHAIN-029,брелок фэнтези символ,брелок фэнтези символ,ozon_wb,fantasy,token,low,not required,medium,medium,только оригинальная символика
+KEYCHAIN-030,брелок готический жетон,брелок готический жетон,ozon_wb,fantasy,token,low,not required,medium,medium,без копирования брендов и эмблем
+KEYCHAIN-031,брелок для рюкзака,брелок для рюкзака,ozon_wb,practical,keychain,low,not required,high,medium,нужна прочная петля
+KEYCHAIN-032,брелок для ключей крупный,брелок для ключей крупный,ozon_wb,practical,keychain,low,not required,high,medium,хорошо виден в сумке
+KEYCHAIN-033,брелок тележка,брелок тележка,ozon_wb,practical,keychain,low,not required,high,low,проверить размеры монеты отдельно
+KEYCHAIN-034,брелок монетка для тележки,брелок монетка для тележки,ozon_wb,practical,token,low,not required,high,low,нужны точные размеры под тележки
+KEYCHAIN-035,брелок органайзер ключей,брелок органайзер ключей,ozon_wb,practical,keychain,low,not required,medium,low,может требовать механики
+KEYCHAIN-036,брелок бирка для сумки,брелок бирка для сумки,ozon_wb,practical,tag,low,not required,high,high,можно добавлять имя и телефон
+KEYCHAIN-037,брелок номерок для ключей,брелок номерок для ключей,ozon_wb,practical,tag,low,not required,high,high,подходит для гостиниц и офисов
+KEYCHAIN-038,брелок табличка,брелок табличка,ozon_wb,practical,tag,low,not required,high,high,можно делать надписи
+KEYCHAIN-039,брелок жетон,брелок жетон,ozon_wb,practical,token,low,not required,high,medium,универсальная форма
+KEYCHAIN-040,брелок с QR-кодом,брелок с QR-кодом,ozon_wb,practical,tag,low,not required,medium,high,нужна проверка читаемости QR
+KEYCHAIN-041,брелок для геймера,брелок для геймера,ozon_wb,gaming_safe,keychain,low,not required,high,medium,общая игровая тема без бренда
+KEYCHAIN-042,брелок геймпад,брелок геймпад,ozon_wb,gaming_safe,keychain,low,not required,medium,medium,делать без копирования конкретного контроллера
+KEYCHAIN-043,брелок джойстик,брелок джойстик,ozon_wb,gaming_safe,keychain,low,not required,medium,medium,универсальный силуэт
+KEYCHAIN-044,брелок WASD,брелок WASD,ozon_wb,gaming_safe,keychain,low,not required,high,medium,хорошо подходит для клавиш
+KEYCHAIN-045,брелок пиксельный меч,брелок пиксельный меч,ozon_wb,gaming_safe,keychain,low,not required,high,low,оригинальный пиксельный дизайн
+KEYCHAIN-046,брелок пиксельное сердце,брелок пиксельное сердце,ozon_wb,gaming_safe,keychain,low,not required,high,medium,простая игровая тема
+KEYCHAIN-047,брелок фэнтези щит,брелок фэнтези щит,ozon_wb,gaming_safe,keychain,low,not required,medium,medium,оригинальный герб без брендов
+KEYCHAIN-048,брелок зелье,брелок зелье,ozon_wb,gaming_safe,pendant,low,not required,medium,medium,фэнтези без конкретной игры
+KEYCHAIN-049,брелок сундук,брелок сундук,ozon_wb,gaming_safe,keychain,low,not required,medium,low,можно делать low poly
+KEYCHAIN-050,брелок кубик d20,брелок кубик d20,ozon_wb,gaming_safe,token,low,not required,medium,low,подходит для настольных игр
+KEYCHAIN-051,брелок игровой жетон,брелок игровой жетон,ozon_wb,gaming_safe,token,low,not required,high,medium,универсальная игровая тема
+KEYCHAIN-052,брелок pixel art,брелок pixel art,ozon_wb,gaming_safe,keychain,low,not required,high,medium,делать оригинальный пиксельный стиль
+KEYCHAIN-053,брелок minecraft,брелок minecraft,ozon_wb,gaming_ip_risk,keychain,high,пиксельный меч,high,low,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-054,брелок roblox,брелок roblox,ozon_wb,gaming_ip_risk,keychain,high,брелок для геймера,medium,low,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-055,брелок dota,брелок dota,ozon_wb,gaming_ip_risk,keychain,high,фэнтези-герой без копирования,medium,low,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-056,брелок cs2,брелок cs2,ozon_wb,gaming_ip_risk,keychain,high,брелок FPS / брелок для геймера,high,low,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-057,брелок genshin,брелок genshin,ozon_wb,gaming_ip_risk,pendant,high,фэнтези-амулет стихии,medium,medium,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-058,брелок fortnite,брелок fortnite,ozon_wb,gaming_ip_risk,keychain,high,мультяшный игровой жетон без бренда,medium,low,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-059,брелок stalker,брелок stalker,ozon_wb,gaming_ip_risk,token,high,постапокалиптический артефакт,medium,medium,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-060,брелок warhammer,брелок warhammer,ozon_wb,gaming_ip_risk,token,high,готический печатный жетон без символики бренда,medium,low,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-061,брелок skyrim,брелок skyrim,ozon_wb,gaming_ip_risk,pendant,high,северный фэнтези амулет без символики бренда,medium,medium,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-062,брелок fallout,брелок fallout,ozon_wb,gaming_ip_risk,token,high,ретро-футуристический жетон,medium,low,только для анализа спроса не копировать бренд / персонажей / логотипы
+KEYCHAIN-063,брелок cyberpunk,брелок cyberpunk,ozon_wb,gaming_ip_risk,keychain,high,неоновый sci-fi жетон без бренда,medium,medium,только для анализа спроса не копировать бренд / персонажей / логотипы
