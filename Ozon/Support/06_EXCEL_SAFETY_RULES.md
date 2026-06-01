@@ -1,4 +1,4 @@
-# 05. EXCEL SAFETY RULES — правила безопасной работы с Excel
+# 06. EXCEL SAFETY RULES — правила безопасной работы с Excel
 
 ## Назначение документа
 
