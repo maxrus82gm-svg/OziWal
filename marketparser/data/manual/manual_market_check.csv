@@ -1,0 +1,11 @@
+check_id,idea_id,query,marketplace,access_status,results_visible,top_items_checked,approx_price_min,approx_price_max,reviews_max_visible,rating_visible,competition_level,photo_quality_level,same_products_many,can_make_better,ip_risk,safe_alternative,manual_status,notes
+CHECK-001,KEYCHAIN-001,брелок с именем,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,low,not required,not_checked,стартовая безопасная персональная идея
+CHECK-002,KEYCHAIN-014,жетон для питомца,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,low,not required,not_checked,стартовая безопасная pet-идея
+CHECK-003,KEYCHAIN-010,брелок номерок,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,low,not required,not_checked,стартовая безопасная персональная идея
+CHECK-004,KEYCHAIN-013,брелок лапка,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,low,not required,not_checked,стартовая безопасная pet-идея
+CHECK-005,KEYCHAIN-042,брелок геймпад,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,low,not required,not_checked,общая игровая тема без бренда
+CHECK-006,KEYCHAIN-045,брелок пиксельный меч,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,low,not required,not_checked,общая игровая тема без бренда
+CHECK-007,KEYCHAIN-050,брелок кубик d20,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,low,not required,not_checked,общая игровая и настольная тема
+CHECK-008,KEYCHAIN-053,брелок minecraft,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,high,пиксельный игровой брелок,not_checked,только поисковая гипотеза не копировать бренд персонажей логотипы
+CHECK-009,KEYCHAIN-059,брелок stalker,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,high,постапокалиптический жетон,not_checked,только поисковая гипотеза не копировать бренд персонажей логотипы
+CHECK-010,KEYCHAIN-062,брелок fallout,OZON_WB,not_checked,unknown,0,,,,unknown,unknown,unknown,unknown,unknown,high,ретро-футуристический жетон,not_checked,только поисковая гипотеза не копировать бренд персонажей логотипы
