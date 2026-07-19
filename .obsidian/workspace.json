@@ -11,10 +11,14 @@
             "id": "d0b70d37a930671b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Support/00_BIG_TASK_CONTEXT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_BIG_TASK_CONTEXT"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Support/00_BIG_TASK_CONTEXT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для 00_BIG_TASK_CONTEXT"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Support/00_BIG_TASK_CONTEXT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из 00_BIG_TASK_CONTEXT"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Support/00_BIG_TASK_CONTEXT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура 00_BIG_TASK_CONTEXT"
             }
           }
         ]
@@ -178,6 +185,7 @@
   },
   "active": "d0b70d37a930671b",
   "lastOpenFiles": [
+    "Support/Рабочая_среда.md",
     "Support/00_BIG_TASK_CONTEXT.md"
   ]
 }
