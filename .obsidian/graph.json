@@ -8,7 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:00_КОНТЕКСТ_БОЛЬШОЙ_ЗАДАЧИ",
+      "color": {
+        "a": 1,
+        "rgb": 16498733
+      }
+    },
+    {
       "query": "file:идей",
+      "color": {
+        "a": 1,
+        "rgb": 3046706
+      }
+    },
+    {
+      "query": "tag:#green-document",
       "color": {
         "a": 1,
         "rgb": 3046706
@@ -53,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999966,
+  "scale": 0.9999999999999953,
   "close": false
 }
