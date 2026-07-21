@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:идей",
+      "color": {
+        "a": 1,
+        "rgb": 3046706
+      }
+    },
+    {
       "query": "path:Support",
       "color": {
         "a": 1,
@@ -36,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.25,
   "collapse-forces": false,
-  "centerStrength": 0.614583333333333,
+  "centerStrength": 0.609375,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224379,
+  "scale": 0.9999999999999966,
   "close": false
 }
