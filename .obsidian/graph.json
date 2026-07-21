@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file:идей",
+      "color": {
+        "a": 1,
+        "rgb": 3046706
+      }
+    },
+    {
       "query": "path:Support",
       "color": {
         "a": 1,
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1.25,
   "collapse-forces": false,
-  "centerStrength": 0.859375,
+  "centerStrength": 0.609375,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9999999999999971,
+  "scale": 0.5087618855792571,
   "close": false
 }
